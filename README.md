@@ -1,24 +1,22 @@
-# trusted_hire_v1
+# trusted_hire_v2
 The Website for a client named Tony where the site is focused on helping people find jobs or employees. 
-
-
-Website for TJ & CO
 
 Your info on how to navigate around the files & folders will be here so check back to github every so often if you can.
 
 Website for BOC TJ & CO. A place for you to share website info
 
-👀 Watch Site Being Built As Changes Happen: https://geoffstengel.github.io/trusted_hire_v1/ 👀
+👀 Watch Site Being Built As Changes Happen: https://koverphoto.github.io/trusted_hire_v2/ 👀
 
-🗺️ Site Map: ✅ index.html Is Main Landing Page
+🗺️ Site Map: 
+✅ index.html Is Main Landing Page
 
 ✅ style.css Is Your Styling Page It Gives Your Site Decorations (in css folder)
 
 ✅ script.js Is Script For Functions to Make The Scheduler, Count Down etc.. (in js folder)
 
-✅ images_logo Folder has variations of your logo
+✅ images Folder has variations of your logo
 
-✅ images_flyers Folder has flyers for events or sponsorships etc.. 💡 To Make The Site Yours Fully U Need The Code, 1. Download ZIP Folder From Green Code Button @ https://github.com/GeoffStengel/trusted_hire_v1, 2. Make A Repository On Github In Your Account (Create Account If U Dont Have) 3. Unzip & Extract Those Files & Folders From Step 1 & Upload to Github
+💡 To Make The Site Yours Fully U Need The Code, 1. Download ZIP Folder From Green Code Button @ https://github.com/GeoffStengel/trusted_hire_v1, 2. Make A Repository On Github In Your Account (Create Account If U Dont Have) 3. Unzip & Extract Those Files & Folders From Step 1 & Upload to Github
 
 🗲 Make Site Live: 1. Create Github Pages To Make Site Live & Link Your Domain After 2. In Repo U Just Created Go To Settings & On Sidebar Click "Pages" 3. Select Deploy From Branch Choose "Master" Or "Main" & SAVE 🎉 4. Congratulations! (URL is Above give a sec or refresh browser)
 
